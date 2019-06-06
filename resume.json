@@ -3,10 +3,9 @@
     "name": "Chris Dail",
     "label": "Director, Architect, Programmer",
     "picture": "chris-profile-small2.jpeg",
-    "phone": "506.871.8560",
     "website": "http://chrisdail.com",
     "email": "chrisdail@gmail.com",
-    "summary": "Chris is a Senior Director of Software Engineering at Akiri and believes that great products start with a great team. He prides himself on his ability to create high performance software development teams. He works to create an environment where people want to work and are burdened with as little process needed to get the job done. Chris also loves building great products that solves real world problems. Excellent User Experience is part of his design philosophy and he carries that philosophy through the entire product including APIs and internal components. In addition to a Director, Chris is an Architect, Software Developer and Pragmatic programmer who has a passion for simple designs and clean, readable code. He also has a passion for automating as much as possible allowing developers to focus on problems not busywork.",
+    "summary": "Chris Dail is a Senior Director of Software Engineering at Akiri, a healthcare networking startup. He has 15 years of experience building software products in various roles including as a software developer, architect and manager. Chris is a programming language enthusiast and is passionate about clean, readable code.",
     "location": {
       "city": "Moncton",
       "countryCode": "Canada",
@@ -43,6 +42,7 @@
       "startDate": "2017-11-01",
       "summary": "Responsible for recruiting and leading engineering team to build cloud based product solving problems with healthcare data exchange. In addition to management, also lead by example in architecture and software development.",
       "highlights": [
+        "Hired and lead engineering team in Moncton, New Brunswick and San Francisco. Established engineering process and culture.",
         "Built a cloud based (SaaS) network (SDN) to allow customers to connect to multiple networks through a single gateway. Allows fine-grained access control over network connections",
         "Built a data request and integration layer for customers to exchange data using healthcare specific protocols (HL7, FHIR) with contracts that enforce data access restrictions.",
         "Built cloud offering using various Amazon Services such as: VPC, ALB, EC2, S3, Route53, RDS, Lambda, CloudWatch, Kinesis and SQS.",
@@ -60,7 +60,7 @@
       "highlights": [
         "Built a platform for stream processing including UI, CLI, APIs, monitoring and management of Pravega and Flink. Platform extends DC/OS with authentication model and enterprise features.",
         "Leveraged technologies such as Mesos, Docker, Ansible, Dropwizard, Vault, InfluxDB, ElasticSearch. Organized team to build microservices components using Java, JavaScript, Python and Go-lang.",
-        "Lead and defined software development process, culture and CI/CD pipeline."
+        "Lead engineering teams and defined software development process, culture and CI/CD pipeline."
       ]
     },
     {
