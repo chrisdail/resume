@@ -1,0 +1,252 @@
+{
+  "basics": {
+    "name": "Chris Dail",
+    "label": "Director, Architect, Programmer",
+    "picture": "chris-profile-small2.jpeg",
+    "phone": "506.871.8560",
+    "website": "http://chrisdail.com",
+    "email": "chrisdail@gmail.com",
+    "summary": "Chris is a Senior Director of Software Engineering at Akiri and believes that great products start with a great team. He prides himself on his ability to create high performance software development teams. He works to create an environment where people want to work and are burdened with as little process needed to get the job done. Chris also loves building great products that solves real world problems. Excellent User Experience is part of his design philosophy and he carries that philosophy through the entire product including APIs and internal components. In addition to a Director, Chris is an Architect, Software Developer and Pragmatic programmer who has a passion for simple designs and clean, readable code. He also has a passion for automating as much as possible allowing developers to focus on problems not busywork.",
+    "location": {
+      "city": "Moncton",
+      "countryCode": "Canada",
+      "region": "Atlantic"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "chrisdail",
+        "url": "https://twitter.com/chrisdail"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "chris-dail",
+        "url": "https://www.linkedin.com/in/chris-dail"
+      },
+      {
+        "network": "GitHub",
+        "username": "chrisdail",
+        "url": "https://github.com/chrisdail"
+      },
+      {
+        "network": "stack-overflow",
+        "username": "chris-dail",
+        "url": "https://stackoverflow.com/users/5077/chris-dail"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Akiri",
+      "position": "Senior Director, Software Engineering",
+      "website": "https://akiri.com/",
+      "startDate": "2017-11-01",
+      "summary": "Responsible for recruiting and leading engineering team to build cloud based product solving problems with healthcare data exchange. In addition to management, also lead by example in architecture and software development.",
+      "highlights": [
+        "Built a cloud based (SaaS) network (SDN) to allow customers to connect to multiple networks through a single gateway. Allows fine-grained access control over network connections",
+        "Built a data request and integration layer for customers to exchange data using healthcare specific protocols (HL7, FHIR) with contracts that enforce data access restrictions.",
+        "Built cloud offering using various Amazon Services such as: VPC, ALB, EC2, S3, Route53, RDS, Lambda, CloudWatch, Kinesis and SQS.",
+        "Responsible for security of cloud environment and compliance with HIPAA, CIS, NIST and other security frameworks.",
+        "Leveraged technologies such as Kubernetes, Docker, Terraform, Kotlin, Vertx, jOOQ and PostGreSQL"
+      ]
+    },
+    {
+      "company": "Dell EMC",
+      "position": "Director, SW Engineering",
+      "website": "https://www.dellemc.com",
+      "startDate": "2016-11-15",
+      "endDate": "2017-10-31",
+      "summary": "Lead a team building a new product codenamed Nautilus. This product provides a stream processing platform that combines the power of Apache Flink and Pravega, a new open source project for streaming storage.",
+      "highlights": [
+        "Built a platform for stream processing including UI, CLI, APIs, monitoring and management of Pravega and Flink. Platform extends DC/OS with authentication model and enterprise features.",
+        "Leveraged technologies such as Mesos, Docker, Ansible, Dropwizard, Vault, InfluxDB, ElasticSearch. Organized team to build microservices components using Java, JavaScript, Python and Go-lang.",
+        "Lead and defined software development process, culture and CI/CD pipeline."
+      ]
+    },
+    {
+      "company": "EMC Corporation",
+      "position": "Director, Software Engineering",
+      "startDate": "2014-11-01",
+      "endDate": "2016-11-15",
+      "summary": "Lead platform development for the EMC VxRack Neutrino product. Neutrino was a turnkey OpenStack based private cloud combining Compute, Storage and Network in a single package. Responsibilities included leading platform team that provided UI, APIs and tools for installation, upgrade, monitoring and lifecycle management of a container based product.",
+      "highlights": [
+        "Scaled the team from a dozen direct reports to a multi-site geo-distributed team with multiple managers reporting to me.",
+        "Responsible for hiring new engineers and for managing two separate rounds of layoffs.",
+        "Lead initiatives including creating a CI/CD pipeline and improving software development process.",
+        "Technologies leveraged included Docker, Ansible, Dropwizard, Java, Python and Go-lang."
+      ]
+    },
+    {
+      "company": "EMC Corporation",
+      "position": "Consultant Software Engineer / Director",
+      "startDate": "2013-01-01",
+      "endDate": "2014-11-01",
+      "summary": "Lead the initiative to combine the iWave Storage Automator technology into EMC ViPR Controller. Lead a team building UIs and APIs for the ViPR Platform.",
+      "highlights": [
+        "Handled migration of iWave PostgreSQL database to Cassandra",
+        "Rewrote ViPR UI using iWave Storage Automation technology",
+        "Lead initiatives to modernize software development methodologies, improve version control, build systems and development process",
+        "Lead initiatives creating an overall ViPR Platform for new products such as EMC Elastic Cloud Storage"
+      ]
+    },
+    {
+      "company": "iWave Software, LLC",
+      "position": "Chief Software Architect / Senior Software Architect",
+      "website": "",
+      "startDate": "2008-02-01",
+      "endDate": "2013-01-01",
+      "summary": "Chief Software Architect leading the construction of the iWave Storage Automator product.",
+      "highlights": [
+        "Played both a management role and team lead/architect for the product",
+        "iWave Storage Automator was a product for automating provisioning of Block and File storage, storage fabric changes and mounting these to servers. This product provided both the server for fulfilling requests and an end-user self-service catalog. Product was built using Java, Play Framework, Postgres and provided a SDK for extending the automation workflows.",
+        "Responsible for the leading the architecture and design of the iWave Automator product, a Business Process Integration and Run Book Automation engine.",
+        "Initial role was Senior Software Architect. Responsible for the initial architecture and design of the iWave Adapters product, a suite of tools to facilitate ITSM integration and Run Book Automation. Responsible for managing and providing the technical leadership for a small development team."
+      ]
+    },
+    {
+      "company": "Whitehill Technologies, Skywire Software",
+      "position": "Team Lead",
+      "website": "",
+      "startDate": "2006-08-01",
+      "endDate": "2008-05-01",
+      "summary": "Responsible to provide the technical leadership of the XML Transport product, a document automation suite for Insurance companies.",
+      "highlights": [
+        "Responsibilities also include refining requirements, researching new features and technologies, estimating work effort and providing leadership in the architecture, design and development of the product. Other duties include mentoring team members and providing product and technology training to other departments and customers."
+      ]
+    },
+    {
+      "company": "Whitehill Technologies",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2003-08-01",
+      "endDate": "2006-08-01",
+      "summary": "Software developer on a documentation automation product called XML Transport.",
+      "highlights": [
+        "Primary development technologies used consist of Java, Groovy, Spring, JUnit, XML, XSLT and XSL-FO."
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Scouts Canada",
+    "position": "Beaver Scout Leader",
+    "website": "http://www.scouts.ca/",
+    "startDate": "2014-09-01",
+    "summary": "Lead an energetic group of 5-7 year olds known as the 1st Riverview Beavers"
+  }],
+  "education": [
+    {
+      "institution": "University of New Brunswick",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "1998-09-01",
+      "courses": ["Honors in Software Systems"],
+      "endDate": "2003-04-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": [
+        "Leadership",
+        "Coaching",
+        "Problem Solving",
+        "Communication",
+        "Team Building",
+        "Recruiting",
+        "Layoffs"
+      ]
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": [
+        "Kanban",
+        "Scrum",
+        "Lean"
+      ]
+    },
+    {
+      "name": "Cloud (AWS)",
+      "level": "",
+      "keywords": [
+        "VPC Networking",
+        "ALB/ELB",
+        "EC2",
+        "S3",
+        "Route53",
+        "RDS",
+        "Lambda",
+        "CloudWatch",
+        "Kinesis",
+        "SQS"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Kotlin",
+        "Java",
+        "Go",
+        "Python",
+        "Groovy",
+        "JavaScript",
+        "Bash",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Web APIs",
+      "level": "",
+      "keywords": [
+        "REST",
+        "JSON",
+        "XML",
+        "HTTP",
+        "Nginx"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "",
+      "keywords": [
+        "Jenkins",
+        "Ansible",
+        "Gradle",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Containers",
+      "level": "",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "DC/OS",
+        "Marathon"
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "level": "",
+      "keywords": [
+        "GitHub",
+        "BitBucket",
+        "JIRA",
+        "Trello"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "Windows",
+        "MacOS",
+        "Solaris",
+        "FreeBSD"
+      ]
+    }
+  ]
+}

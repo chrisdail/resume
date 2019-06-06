@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+    <person>
+        <name>Christopher Dail</name>
+        <street>162 Leonard Street</street>
+        <city>Riverview</city>
+        <province>NB</province>
+        <postal-code>E1B 1K8</postal-code>
+        <phone>506-871-8560</phone>
+        <email>chrisdail@gmail.com</email>
+        <citizen>Canadian and US citizen</citizen>
+    </person>
+    <objectives>
+        <objective>To obtain employment with a software development company as a lead developer or architect.</objective>
+        <!--
+        <objective>To obtain employment in a technology management position that utilizes my development experience and background.</objective>
+        -->
+    </objectives>
+    <work>
+        <job>
+            <title>Senior Software Architect</title>
+            <dates>February 2008 to Present</dates>
+            <company>iWave Software LLC.</company>
+            <location>Moncton, NB</location>
+            <description>Responsible for the initial architecture and design of the iWave Adapters product, a suite
+                of tools to facilitate ITSM integration and Run Book Automation. Responsible for managing
+                and providing the technical leadership for a small development team. Responsible for working
+                with the Professional Services team, Product Support, Quality Assurance and Technical Writing.
+            </description>
+            <description>Primary task was to create and maintain the Adapters Web Services platform. Technologies
+                used include Java, Groovy, Python Spring, Apache CXF, JAX-WS, JAXB and JPA.
+            </description>
+            <description>Responsible for the leading the architecture and design of the iWave Automator product, 
+                a Business Process Integration and Run Book Automation engine.
+            </description>
+            <description>Primary tasks include adding Version Control support to the IDE (Subversion), performance
+                improvements and architecture changes.
+            </description>
+        </job>
+        <job>
+            <title>Team Lead (Developer)</title>
+            <dates>August 2006 to February 2008</dates>
+            <company>Skywire Software (formerly Whitehill Technologies)</company>
+            <location>Moncton, NB</location>
+            <description>Responsible to provide the technical leadership of the XML Transport product, a
+                document automation suite for Insurance companies. 
+                Responsibilities also include refining requirements, researching new features and technologies, estimating work effort
+                and providing leadership in the architecture, design and development of the product. Other duties include
+                mentoring team members and providing product and technology training to other departments and customers.  
+            </description>
+            <description>Responsibilities also include maintaining an active development role on the team.
+                See the next job (Developer II) for more information on the common development responsibilities.
+            </description>
+        </job>
+        <job>
+            <title>Developer II</title>
+            <dates>August 2003 to August 2006</dates>
+            <company>Whitehill Technologies, Inc.</company>
+            <location>Moncton, NB</location>
+            <description>Responsible for design, development, unit testing and maintenance of a large business
+            application. Primary development technologies used consist of Java, Groovy, Spring, JUnit, XML, XSLT and XSL-FO. 
+            Operating Systems developed for include Windows, Solaris, Linux and Z/OS.</description>
+        </job>
+        <!--
+        <job>
+            <title>Web Designer - 1 to 2 hours per week</title>
+            <dates>December 1999 to January 2005</dates>
+            <company>Convention of Atlantic Baptist Churches</company>
+            <location>http://www.baptist-atlantic.ca</location>
+            <description></description>
+        </job>
+        -->
+        <job>
+            <title>Software Developer (Co-op)</title>
+            <dates>16 Months between September 2000 and August 2002</dates>
+            <company>ASG Technologies Inc.</company>
+            <location>Fredericton, NB</location>
+            <description>Responsible for development and maintenance web based and stand alone applications 
+            for the EnGuarde and Passwerks products using Java, C, C++, PHP, JSP, XML on Solaris, Linux 
+            and BSD platforms. Responsibilities also included testing, build and install scripting
+            and system administration tasks.</description>
+        </job>
+        <!--
+        <job>
+            <title>Co-Owner / Operator</title>
+            <dates>April 2000 to January 2001</dates>
+            <company>Geekbox Computers</company>
+            <location>Fredericton, NB</location>
+            <description>Responsible for routine operation of the business (computer and component sales), 
+            maintenance and creation of an online storefront, including shopping cart facilities. Also responsible 
+            for managing financial correspondence and customer relations.</description>
+        </job>
+        -->
+        <job>
+            <title>Programmer (Co-op)</title>
+            <dates>January 2000 to April 2000, May 1999 to August 1999</dates>
+            <company>NB Power - Point Lepreau Nuclear Generating Station</company>
+            <location>Lepreau, NB</location>
+            <description>Simulator Training Department.  Developed and maintained software for the nuclear
+            power plant simulator.  Development done in Visual C++ and Visual Fortran on Windows NT and 
+            Open VMS platforms.</description>
+        </job>
+        <!--
+        <job>
+            <title>Student Marker - CS 1073</title>
+            <dates>September 1999 to April 2000</dates>
+            <company>University of New Brunswick</company>
+            <location>Saint John, NB</location>
+            <description></description>
+        </job>
+        <job>
+            <title>Bookstore Sales Clerk</title>
+            <dates>AUGUST 1998 to JANUARY 2000</dates>
+            <company>Baptist Bookroom</company>
+            <location>Saint John, NB</location>
+            <description></description>
+        </job>
+        <job>
+            <title>Summer Youth Worker</title>
+            <dates>JUNE 1998 to SEPTEMBER 1998</dates>
+            <company>Forest Hills Baptist Church</company>
+            <location>Saint John, NB</location>
+            <description></description>
+        </job>
+        -->
+    </work>
+    <education>
+        <!--
+        Other stuff?
+        XSLT, XSL-FO course
+        AFP training
+        J2EE training
+        .NET training
+        Design Patterns
+        -->
+        <school>
+            <degree>Bachelor of Computer Science</degree>
+            <dates>September 1998 - April 2003</dates>
+            <institution>University of New Brunswick</institution>
+            <location>Fredericton, NB</location>
+            <description>Graduated with honors in Software Systems, Deans List and the Co-op program.</description>
+        </school>
+        <school>
+            <degree>High School</degree>
+            <dates>September 1995 - June 1998</dates>
+            <institution>Saint John High School</institution>
+            <location>Saint John, NB</location>
+            <description>Graduated with high honors. International Baccalaureate courses taken in Mathematics, 
+            Chemistry and Physics.</description>
+        </school>
+    </education>
+    <skills>
+        <!--
+        Domain experience? Insurance/Document Automation, etc.
+        -->
+        <skill-set>
+            <title>Soft Skills</title>
+            <description>Ability to lead and manage small teams. Able to provide clear direction
+            and foster teamwork. Strong verbal and written
+            communication skills. Excellent team worker and problem solver.</description>
+            <description>Experienced in teaching courses on programming languages, customer products, 
+            XSLT and XSL-FO. Experienced in
+            mentoring junior team members.</description>
+        </skill-set>
+        <!--
+        <skill-set>
+            <title>ITSM Skills</title>
+            <description>Experienced developing and using Run Book Automation software. Experienced developing
+                integration and automation adapters for ITSM applications including many
+                Service Management and Event Management systems.
+            </description>
+        </skill-set>
+        -->
+        <skill-set>
+            <title>Programming Languages</title>
+            <description>Experienced programmer in Java, Groovy, Python and C/C++. Experience and basic knowledge of other languages
+            include Ruby, Fortran, Assembler and .NET. Scripting experience includes
+            Perl, sh, awk and Windows batch. Ability to learn new languages quickly.
+            </description>
+            <description>Knowledge of Software Engineering concepts such as unit testing, UML
+            and design patterns.</description>
+        </skill-set>
+        <skill-set>
+            <title>Development Technologies</title>
+            <description>Experience using the Eclipse and Visual Studio development environments. Experience
+            creating build processes using maven, ant and make. Experience setting up continuous integration
+            environments using CruiseControl and Hudson. Experience using and administering version control
+            systems including CVS, VSS and Subversion. Database development experience using ORM technologies
+            such as JPA. Experience using databases: Oracle, IBM DB2, MS SQLServer,
+            Ingres, Sybase, MySQL, PostgreSQL and Derby.</description>
+            <description>Experiencing using WebServices, RMI and other clustering technologies.</description>
+            <description>Extensive experience using XML technologies such as WSDL, JAX-WS, JAXB, XSLT, XSL-FO, SAX and DOM. Experience
+            teaching a week long course on XSLT and XSL-FO. Experience
+            using the Apache FOP, RenderX XEP and XSLFormatter renderers.</description>
+            <description>Experience using document technologies such as AFP, PDF and PostScript.</description>
+        </skill-set>
+        <skill-set>
+            <title>Web and J2EE Application Programming</title>
+            <description>Experienced in server-side development using Spring and J2EE. Some experience in
+            web development using Grails, jQuery (AJAX), JSP, Java Servlets and PHP.
+            Experience using Apache and Tomcat webservers. Experience setting up and using JBoss,
+            IBM WebSphere and BEA WebLogic application servers.
+            </description>
+        </skill-set>
+        <skill-set>
+            <title>Computer Networking and Infrastructure</title>
+            <description>Very knowledgeable about operating systems, including various flavors of UNIX (Linux, 
+            Solaris, AIX) and various flavors of Windows. Also some industry experience using Open VMS
+            and Z/OS. </description>
+            <description>Knowledge and experience in some system administration and networking.</description>
+        </skill-set>
+    </skills>
+    <personal>
+        <interests>Easy to get along with and quick learner. Interests include helping out at local church youth
+            group, movies, video games, Hiking and playing music.</interests>
+    </personal>
+    <references>
+        <!--
+        <reference>
+            <name>Name</name>
+            <description>title</description>
+            <description>company</description>
+            <description>contact</description>
+        </reference>
+        -->
+    </references>
+</resume>
