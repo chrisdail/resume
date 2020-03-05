@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Chris Dail",
-    "label": "Director, Architect, Programmer",
+    "label": "Executive, Leader, Architect, Programmer",
     "picture": "chris-profile-small2.jpeg",
     "website": "http://chrisdail.com",
     "email": "chrisdail@gmail.com",
-    "summary": "Chris Dail is a Senior Director of Software Engineering at Akiri, a healthcare networking startup. He has 15 years of experience building software products in various roles including as a software developer, architect and manager. Chris is a programming language enthusiast and is passionate about clean, readable code.",
+    "summary": "Chris Dail is VP of Engineering at Motryx. He has 15 years of experience building software products in various roles including as a software developer, architect, manager and director. Chris is a programming language enthusiast and is passionate about clean, readable code.",
     "location": {
       "city": "Moncton",
       "countryCode": "Canada",
@@ -36,10 +36,20 @@
   },
   "work": [
     {
+      "company": "Motryx",
+      "position": "VP, Engineering",
+      "website": "https://www.motryx.com/",
+      "startDate": "2020-03-16",
+      "summary": "Define the engineering technology vision and requirements for the company. Hire, lead, mentor and develop the engineering team enabling them to achieve the business goals.",
+      "highlights": [
+      ]
+    },
+    {
       "company": "Akiri",
       "position": "Senior Director, Software Engineering",
       "website": "https://akiri.com/",
       "startDate": "2017-11-01",
+      "endDate": "2020-03-13",
       "summary": "Responsible for recruiting and leading engineering team to build cloud based product solving problems with healthcare data exchange. In addition to management, also lead by example in architecture and software development.",
       "highlights": [
         "Hired, lead and developed engineering team in Moncton, New Brunswick and San Francisco. Established engineering process, culture and agile Software Development Lifecycle (SDLC) using Kanban",
