@@ -1,15 +1,13 @@
 {
   "basics": {
     "name": "Chris Dail",
-    "label": "Executive, Leader, Architect, Programmer",
-    "picture": "chris-profile-small2.jpeg",
+    "label": "VP, Engineering Leader",
     "website": "http://chrisdail.com",
     "email": "chrisdail@gmail.com",
-    "summary": "Chris Dail is VP of Engineering at Motryx. He has 15 years of experience building software products in various roles including as a software developer, architect, manager and director. Chris is a programming language enthusiast and is passionate about clean, readable code.",
+    "summary": "Chris Dail is VP of Engineering at Motryx. He has 20 years of experience building software products in various engineering leadership roles. Chris has repeatedly built and scaled high-functioning teams that build great products using lean processes.",
     "location": {
-      "city": "Moncton",
-      "countryCode": "Canada",
-      "region": "Atlantic"
+      "city": "Halifax",
+      "countryCode": "Canada"
     },
     "profiles": [
       {
@@ -40,8 +38,16 @@
       "position": "VP, Engineering",
       "website": "https://www.motryx.com/",
       "startDate": "2020-03-16",
-      "summary": "Define the engineering technology vision and requirements for the company. Hire, lead, mentor and develop the engineering team enabling them to achieve the business goals.",
+      "summary": "Define the engineering technology vision and requirements for the company. Hired, lead, mentor and developed the engineering team enabling them to achieve the business goals.",
       "highlights": [
+        "Established and modernized agile software development processes using Kanban.",
+        "Established security standards, hiring and HR processes.",
+        "Scaled hardware manufacturing and inventory management processes for the VitalVial hardware device.",
+        "Established cloud best practices around CI/CD, testing and automation.",
+        "Assisted in establishing company goals, KPIs, culture, core values and busines strategy.",
+        "Submitted proposals, planned, tracked and reported on grants.",
+        "Acted as architecture and technical lead for cloud service, desktop application and hardware.",
+        "Tech Stack: React, JavaScript, Python, FastAPI, Pandas, PostgreSQL, AWS ECS+S3+ALB, Terraform"
       ]
     },
     {
@@ -53,7 +59,7 @@
       "summary": "Responsible for recruiting and leading engineering team to build cloud based product solving problems with healthcare data exchange. In addition to management, also lead by example in architecture and software development.",
       "highlights": [
         "Hired, lead and developed engineering team in Moncton, New Brunswick and San Francisco. Established engineering process, culture and agile Software Development Lifecycle (SDLC) using Kanban",
-        "Built a cloud based (SaaS) network (SDN) to allow customers to connect to multiple networks through a single gateway. Allows fine-grained access control over network connections",
+        "Built a cloud based (SaaS) network (SDN/SD-WAN) to allow customers to connect to multiple networks through a single gateway. Allows fine-grained access control over network connections",
         "Built a data request and integration layer for customers to exchange data using healthcare specific protocols (HL7, FHIR) with contracts that enforce data access restrictions.",
         "Built cloud offering using various Amazon Services such as: VPC, ALB, EC2, S3, Route53, RDS, Lambda, CloudWatch, Kinesis and SQS.",
         "Responsible for security of cloud environment and compliance with HIPAA, CIS, NIST and other security frameworks.",
@@ -138,10 +144,10 @@
   ],
   "volunteer": [{
     "organization": "Scouts Canada",
-    "position": "Beaver Scout Leader",
+    "position": "Scouter",
     "website": "http://www.scouts.ca/",
     "startDate": "2014-09-01",
-    "summary": "Lead an energetic group of 5-7 year olds known as the 1st Riverview Beavers"
+    "summary": "Volunteer with local scouts troop"
   }],
   "education": [
     {
@@ -160,36 +166,56 @@
       "keywords": [
         "Leadership",
         "Coaching",
+        "Risk Management",
         "Problem Solving",
-        "Communication",
+        "Culture and Values",
         "Team Building",
-        "Recruiting",
+        "Hiring",
         "Layoffs"
       ]
     },
     {
-      "name": "Agile Methodologies",
+      "name": "Engineering Management",
       "level": "",
       "keywords": [
+        "Agile",
         "Kanban",
-        "Scrum",
-        "Lean"
+        "Lean",
+        "SR&ED",
+        "CI/CD",
+        "Cloud-native Architecture",
+        "GitHub/GitLab"
       ]
     },
     {
-      "name": "Cloud (AWS)",
+      "name": "Security and Privacy",
       "level": "",
       "keywords": [
-        "VPC Networking",
+        "Secure Software Development",
+        "Secure Architectures",
+        "Security Process",
+        "Security Standards",
+        "Risk Assessment",
+        "HIPAA"
+      ]
+    },
+    {
+      "name": "Cloud and AWS",
+      "level": "",
+      "keywords": [
+        "Terraform",
         "ALB/ELB",
         "EC2",
+        "ECS",
         "S3",
         "Route53",
         "RDS",
         "Lambda",
         "CloudWatch",
         "Kinesis",
-        "SQS"
+        "SQS",
+        "IAM",
+        "SES"
       ]
     },
     {
@@ -212,19 +238,8 @@
       "keywords": [
         "REST",
         "JSON",
-        "XML",
         "HTTP",
         "Nginx"
-      ]
-    },
-    {
-      "name": "CI/CD",
-      "level": "",
-      "keywords": [
-        "Jenkins",
-        "Ansible",
-        "Gradle",
-        "Terraform"
       ]
     },
     {
@@ -235,27 +250,6 @@
         "Kubernetes",
         "DC/OS",
         "Marathon"
-      ]
-    },
-    {
-      "name": "Developer Tools",
-      "level": "",
-      "keywords": [
-        "GitHub",
-        "BitBucket",
-        "JIRA",
-        "Trello"
-      ]
-    },
-    {
-      "name": "Operating Systems",
-      "level": "",
-      "keywords": [
-        "Linux",
-        "Windows",
-        "MacOS",
-        "Solaris",
-        "FreeBSD"
       ]
     }
   ]
